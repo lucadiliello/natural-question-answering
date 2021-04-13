@@ -1,3 +1,10 @@
+# Editor stuff
+.vscode/
+
+# I/O Folders
+input/
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
