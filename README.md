@@ -1,4 +1,4 @@
-# Natural Question Answers
+# Natural Question Answering
 
 This dataset is an adaptation of the well known [Natural Questions](https://github.com/google-research-datasets/natural-questions) dataset released by the Google team. This version is created to be used as a benchmark in Question Answering systems.
 
